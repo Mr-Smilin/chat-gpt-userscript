@@ -8,7 +8,7 @@
 // @version            0.2
 // @author             Zheng & Smilin(修改)
 // @contributor        Smilin
-// @description        側欄顯示 ChatGPT 回答（Google、Bing、百度、DuckDuckGo和DeepL）
+// @description        ChatGPT answers displayed in sidebar after search (Google, Bing, Baidu, DuckDuckGo and DeepL)
 // @description:en     ChatGPT answers displayed in sidebar after search (Google, Bing, Baidu, DuckDuckGo and DeepL)
 // @description:zh-CN  侧栏显示 ChatGPT 回答（Google、Bing、百度、DuckDuckGo和DeepL）
 // @description:zh-SG  侧栏显示 ChatGPT 回答（Google、Bing、百度、DuckDuckGo和DeepL）
