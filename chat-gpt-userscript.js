@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name               ChatGPT Search
-// @name:zh-CN         ChatGPT 搜索
-// @name:zh-SG         ChatGPT 搜索
-// @name:zh-TW         ChatGPT 搜索
-// @name:zh-HK         ChatGPT 搜索
-// @namespace          https://greasyfork.org/scripts/456078
-// @version            0.1
+// @name               ChatGPT Search 2.0
+// @name:zh-CN         ChatGPT 搜索 2.0
+// @name:zh-SG         ChatGPT 搜索 2.0
+// @name:zh-TW         ChatGPT 搜索 2.0
+// @name:zh-HK         ChatGPT 搜索 2.0
+// @namespace          https://greasyfork.org/zh-TW/scripts/476059
+// @version            0.2
 // @author             Zheng & Smilin(修改)
 // @contributor        Smilin
 // @description        ChatGPT answers displayed in sidebar after search (Google, Bing, Baidu, DuckDuckGo and DeepL)
